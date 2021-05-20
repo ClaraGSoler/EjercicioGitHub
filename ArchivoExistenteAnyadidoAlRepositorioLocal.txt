@@ -1,0 +1,3 @@
+Este archiivo lo he creado fuera de la carpeta de trabajo de la práctica,
+para metérlo y luego añadir y hacer un commit y un Push!!!!
+"Ací, inventant text..."
